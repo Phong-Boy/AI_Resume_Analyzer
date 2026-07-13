@@ -72,7 +72,7 @@ AI_Resume_Agent/
 ### Clone the repository
 
 ```bash
-git clone https://github.com/your-username/ProjectsAI-Resume-Agent.git
+git clone https://github.com/Phong-Boy/AI_Resume_Analyzer.git
 ```
 Navigate to the project directory:
 
